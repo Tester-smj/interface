@@ -1,0 +1,2 @@
+{"car_struct_name":"商务","capacity":"5","etBeginTime":"2016-08-12 15:05:00","etFinishTime":"2016-08-12 15:36:48","vehicleCount":"1","tdays":"0","fromCity":"深圳市","departurePlace":"广纳商务酒店","toCity":"深圳市","destinationPlace":"深圳西站","cost":"0","contr_select_bus_info":"0","destinationCoords":"{'area':',深圳市,宝安区,','coords':[22.616128,114.037994],'name':'深圳北站'}","departureCoords":"{'area':',广州市,越秀区,','coords':[23.155001,113.264057],'name':'广州火车站'}","pathway":"[]","jobType":"0","withTolls":"0","addItion":"0"}
+
